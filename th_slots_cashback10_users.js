@@ -16812,6 +16812,4 @@ var th_slots_cashback10_usrs = ["144548472",
 "500693570",
 "746715735",
 "904824850",
-"422038635"]
-
-localStorage.setItem('th_slots_cashback10_usrs_list_loaded', true);
+"422038635"];
